@@ -20,4 +20,5 @@ Users can record income and expenses, categorize transactions, and view financia
 2. Open the project in Visual Studio
 3. Build and run the application
    ## Screenshots<img width="1920" height="1080" alt="Screenshot 2026-03-05 124127" src="https://github.com/user-attachments/assets/58ec63cc-938f-4934-ba72-6d8aed825d30" />
-##i
+## hi
+- dont run 
